@@ -1,0 +1,17 @@
+Software: SpyMe
+
+Steps:
+  (1) Devices and Printers 
+  (2) Right Click Printer -> Printer Properties -> Administration
+  (3) Expand All -> Configurations -> Configuration -> Enter Printer Type -> OK
+  (4) Right Click Printer -> Printer Properties -> Configuration
+  (5) Expand All -> Installable Options -> Finisher -> Office Finisher LX
+
+Software: Regedit
+  Go to Directory -> Right Click -> Export -> Save .reg file
+
+Software: cmd
+  %username%
+  REGEDIT.EXE "\\ender\CTF Drive\yzhu399\Desktop\generic.reg"
+  
+Further Issues
